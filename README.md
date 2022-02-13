@@ -1,3 +1,2 @@
-# bitvavo2coinstats
-
-This app will let you connect to the [Bitvavo](https://bitvavo.com/en) cryptocurrency exchange and download a CSV file ready for importing in [Coinstats](https://coinstats.app/) portfolio tracker app.
+# blank-node-cli-app
+I use this as a template to start a node cli app with typescript
